@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Experiences Page</title>
+</head>
+<body>
+    <h1>Experiences</h1>
+
+    <!-- Experience 1 -->
+    <h2>Plus972 Group | New York City, NYU | Business Development Intern</h2>
+    <p>05/20 – 05/22</p>
+    <ul>
+        <li>Explored new venues for business development by attending a wide variety of retail, wholesale, and networking events in luxury fashion, apparel, and real estate.</li>
+        <li>Identified and secured 60X more RFP’s that align with capabilities of the firm through various online and offline venues.</li>
+        <li>Created proposals in response to RFP’s based on the various requirements set forth to ensure a successful bid factor of 45%.</li>
+        <li>Analyzed and optimized the current project management tool (Monday.com) and other similar tools (Teamwork & Asana) to ensure steady workflow and proper communication.</li>
+        <li>Collaborated with offices in other regions around the world such as Tel Aviv and Milan to ensure best practices are followed throughout all offices across the organization.</li>
+    </ul>
+
+    <!-- Experience 2 -->
+    <h2>Toffee Ride Innovations Pvt Ltd | Ernakulam, Kerala India | Assistant Manager, Corporate</h2>
+    <p>05/20 – 05/22</p>
+    <ul>
+        <li>Led operations, marketing, and business development for edtech startup focused on mobile interface.</li>
+        <li>Liaised with external marketing partners including The Times of India and Madhyamam; secured promotional coverage in television and print while keeping within ~$150k operating budget expanding the users by 300%.</li>
+        <li>Managed and worked with the sales team on a B2C level and with schools and other institutions on a B2B level with internal sales team for increase in revenue by 80X.</li>
+        <li>Onboarded new employees; met bi-weekly with interns, provided feedback, and guided towards full-time employment which drove company success.</li>
+        <li>Designed and implemented a national level quiz contest marketed to target audience; campaign attracted 30k participants in its first year, which more than doubled the following year.</li>
+        <li>Supported CEO and founders with operational requirements such as implementation of new marketing strategies and making changes to existing campaigns creating a visual corporate structure.</li>
+        <li>Designed and developed an in-house CRM to ensure customer success studying AWS and Google Analytics of the App.</li>
+    </ul>
+
+</body>
+</html>

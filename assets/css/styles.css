@@ -528,3 +528,22 @@ img {
     width: 450px;
   }
 }
+
+.container {
+  width: 1000px; /* Adjust the width to your desired value */
+  margin: 0 auto; /* To center the container horizontally */
+  display: flex;
+  justify-content: space-between;
+}
+
+.work__img {
+  width: 48%; /* Adjust the width of each experience box */
+  margin-bottom: 20px;
+}
+
+.work__img img {
+  max-width: 100%;
+  height: auto;
+}
+
+
